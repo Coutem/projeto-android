@@ -61,7 +61,7 @@ header > p {
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     /* Ao botar a largura, automaticamente virou um bloco. Caso não use margin:auto, o conteúdo não ficará centralizado */
     padding-right: 10px;
     padding-left: 10px;
